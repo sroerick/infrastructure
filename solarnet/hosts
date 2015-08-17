@@ -7,6 +7,7 @@ jupiter     ansible_ssh_host=104.236.151.122
 venus       ansible_ssh_host=104.236.76.40
 earth       ansible_ssh_host=178.62.158.247
 mercury     ansible_ssh_host=178.62.61.185
+camp1       ansible_ssh_host=151.217.28.173
 
 ; managed by whyrusleeping
 ; mars        ansible_ssh_host=104.131.131.82

@@ -39,3 +39,4 @@
     - include: roles/nginx/handlers/main.yml
   roles:
     - pinbot
+    - pinbot-camp
